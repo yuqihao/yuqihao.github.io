@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://yuqihao.github.io/2017/03/10/hello-world/</loc>
+    <lastmod>2017-03-12T13:24:24.658Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-03-10T12:45:33.654Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://yuqihao.github.io/2017/03/12/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2017-03-12T13:21:40.390Z</lastmod>
+    <data>
+        <display>
+        <title>测试</title>
+        <pubTime>2017-03-12T13:20:52.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
